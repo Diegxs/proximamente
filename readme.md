@@ -1,4 +1,7 @@
 # Página web de bienvenida.
 
-Esta página web es de bienvenida, es usada para dar a conocer una página antes de la normal.
+Welcome page. 
 
+### Preview
+
+<img src="https://media.discordapp.net/attachments/783935531767562250/803330605894991902/unknown.png" width="500" height="500">
